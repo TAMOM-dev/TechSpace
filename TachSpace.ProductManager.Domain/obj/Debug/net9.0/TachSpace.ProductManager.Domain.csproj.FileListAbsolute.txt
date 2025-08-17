@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\bin\Debug\net9.0\TachSpace.ProductManager.Domain.deps.json
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\refint\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\TachSpace.ProductManager.Domain\obj\Debug\net9.0\ref\TachSpace.ProductManager.Domain.dll

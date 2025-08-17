@@ -1,0 +1,6 @@
+@TechSpace.ProductManager.API_HostAddress = http://localhost:5126
+
+GET {{TechSpace.ProductManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

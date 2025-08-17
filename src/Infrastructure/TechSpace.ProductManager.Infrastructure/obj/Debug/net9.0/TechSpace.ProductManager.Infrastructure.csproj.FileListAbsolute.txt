@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TechSpace.ProductManager.Infrastructure.deps.json
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TechSpace.ProductManager.Infrastructure.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TechSpace.ProductManager.Infrastructure.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TechSpace.ProductManager.Application.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpac.9701D4B8.Up2Date
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\refint\TechSpace.ProductManager.Infrastructure.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\TechSpace.ProductManager.Infrastructure.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Infrastructure\obj\Debug\net9.0\ref\TechSpace.ProductManager.Infrastructure.dll
