@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --background: #18181b;
+  --primary: #22d3ee;
+}
+
+@theme inline {
+  --background: var(--background);
+  --color-primary: var(--primary);
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--background)] text-zinc-100;
+  }
+}
+
+@layer components {
+  .width-container {
+    @apply max-w-[1920px] mx-auto;
+  }
+}

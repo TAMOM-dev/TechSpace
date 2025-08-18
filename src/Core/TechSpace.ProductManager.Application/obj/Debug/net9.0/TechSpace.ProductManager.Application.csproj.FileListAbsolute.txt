@@ -1,0 +1,31 @@
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.deps.json
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpac.07C403C4.Up2Date
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\refint\TechSpace.ProductManager.Application.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\ref\TechSpace.ProductManager.Application.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.deps.json
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.csproj.AssemblyReference.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.AssemblyInfoInputs.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.AssemblyInfo.cs
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.csproj.CoreCompileInputs.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.sourcelink.json
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpac.07C403C4.Up2Date
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\refint\TechSpace.ProductManager.Application.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Core\TechSpace.ProductManager.Application\obj\Debug\net9.0\ref\TechSpace.ProductManager.Application.dll

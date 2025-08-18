@@ -1,0 +1,35 @@
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.deps.json
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Application.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpac.C0709690.Up2Date
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\refint\TechSpace.ProductManager.Persistence.dll
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.pdb
+C:\Users\Administrator\source\repos\TechSpace.ProductManager\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\ref\TechSpace.ProductManager.Persistence.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.deps.json
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Persistence.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TachSpace.ProductManager.Domain.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Application.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TechSpace.ProductManager.Application.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\bin\Debug\net9.0\TachSpace.ProductManager.Domain.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.csproj.AssemblyReference.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.AssemblyInfoInputs.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.AssemblyInfo.cs
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.csproj.CoreCompileInputs.cache
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.sourcelink.json
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpac.C0709690.Up2Date
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\refint\TechSpace.ProductManager.Persistence.dll
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\TechSpace.ProductManager.Persistence.pdb
+D:\VS Studio Main (Codes)\Others\tamom_nigro_4\src\Infrastructure\TechSpace.ProductManager.Persistence\obj\Debug\net9.0\ref\TechSpace.ProductManager.Persistence.dll
