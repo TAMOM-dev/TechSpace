@@ -82,6 +82,6 @@ Now you can test the **endpoint** freely
 
 ## API Developed by Efrain Feliz de la Cruz.
 ## Alias T A M O M.
-## [LinkedIn](www.linkedin.com/in/tamomdev) | [GitHub](https://github.com/TAMOM-dev)
+www.linkedin.com/in/tamomdev
 
 
